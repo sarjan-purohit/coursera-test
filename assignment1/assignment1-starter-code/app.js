@@ -22,9 +22,7 @@
         for(var i=0;i< iteamArr.length;i++){
             if(iteamArr[i].trim() !== "")
             {
-              alert(iteamArr[i]);
               count++;
-              alert(count);
             }
           }
 
